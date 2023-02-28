@@ -10,7 +10,7 @@ I am Dzaky Santino and I am an undergraduate student majoring in Information Sys
 * 🖥️  See my portfolio at [My Portfolio](http://dzaky-santino.github.io/santino.github.io/)
 * ✉️  You can contact me at [dzakysan2002@gmail.com](mailto:dzakysan2002@gmail.com)
 * 🧠  I'm learning Web Development
-* 🤝  I'm open to collaborating on Github and Discord
+* 🤝  I'm open to collaborating on <a href="https://github.com/dzakysantino22" target="blank">Github</a> and <a href="https://discord.gg/2x39Q2vZpb" target="blank">Discord</a>
 * ⚡  I'm always love my gf, hehehehe
 
 <a href="https://www.github.com/dzakysantino22" target="_blank" rel="noreferrer"><img
@@ -53,5 +53,7 @@ src="https://img.shields.io/twitter/follow/dzakysantino22?logo=twitter&style=for
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/dzakysantino22" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-red.png" width="200"></a>
-<a href="https://saweria.co/dzakysantino22" target="_blank"><img src="https://cdn.discordapp.com/attachments/777703865729679361/1080139568197681254/saweria.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/dzakysantino22" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" width="200"></a> <br>
+<a href="https://ko-fi.com/dzakysantino22" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" width="200" /></a> <br>
+<a href="https://saweria.co/dzakysantino22" target="_blank"><img src="https://cdn.discordapp.com/attachments/777703865729679361/1080139568197681254/saweria.png" width="200" /></a> 
+
