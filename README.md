@@ -54,3 +54,4 @@ src="https://img.shields.io/twitter/follow/dzakysantino22?logo=twitter&style=for
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/dzakysantino22"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://saweria.co/dzakysantino22"><img src="https://cdn.discordapp.com/attachments/777703865729679361/1080139568197681254/saweria.png" width="200" /></a>
