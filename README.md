@@ -7,7 +7,7 @@ Beginner Web Developer
 I am Dzaky Santino and I am an undergraduate student majoring in Information Systems at Gunadarma University. I'm a novice web developer. I've always been curious about web developments.
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [My Portfolio](http://dzaky-santino.github.io/santino.github.io/)
+* 🖥️  See my portfolio at [My Portfolio](http://dzaky-santino.github.io/portfolio/)
 * ✉️  You can contact me at [dzakysan2002@gmail.com](mailto:dzakysan2002@gmail.com)
 * 🧠  I'm learning Web Development
 * 🤝  I'm open to collaborating on <a href="https://github.com/dzakysantino22" target="blank">Github</a> and <a href="https://discord.gg/2x39Q2vZpb" target="blank">Discord</a>
