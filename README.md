@@ -55,5 +55,5 @@ src="https://img.shields.io/twitter/follow/dzakysantino?logo=twitter&style=for-t
 
 <a href="https://www.buymeacoffee.com/dzakysantino22" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" width="200"></a> <br>
 <a href="https://ko-fi.com/dzakysantino22" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" width="200" /></a> <br>
-<a href="https://saweria.co/santino" target="_blank"><img src="https://cdn.discordapp.com/attachments/777703865729679361/1080139568197681254/saweria.png" width="200" /></a> 
+[![](https://img.shields.io/static/v1?label=&message=Saweria&logo=githubsponsors&logoColor=white&style=for-the-badge&color=orange)](https://saweria.co/santino)
 
