@@ -50,8 +50,8 @@ src="https://img.shields.io/github/followers/dzaky-santino?logo=github&style=for
 <a href="https://github.com/dzaky-santino" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzaky-santino&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
-[![](https://img.shields.io/static/v1?label=&message=Saweria&logo=githubsponsors&logoColor=white&style=for-the-badge&color=orange)](https://saweria.co/santino)
-<!--[![](https://img.shields.io/static/v1?label=&message=Ko-fi&logo=githubsponsors&logoColor=white&style=for-the-badge&color=a61c1c)](https://ko-fi.com/dzakysantino22)
-[![](https://img.shields.io/static/v1?label=&message=buymeacoffe&logo=githubsponsors&logoColor=white&style=for-the-badge&color=red)](https://www.buymeacoffee.com/dzakysantino22)-->
+[![](https://img.shields.io/static/v1?label=&message=Saweria&logo=githubsponsors&logoColor=white&style=for-the-badge&color=orange)](https://saweria.co/dzakysantino)
+[![](https://img.shields.io/static/v1?label=&message=Ko-fi&logo=githubsponsors&logoColor=white&style=for-the-badge&color=a61c1c)](https://ko-fi.com/dzakysantino)
+[![](https://img.shields.io/static/v1?label=&message=buymeacoffe&logo=githubsponsors&logoColor=white&style=for-the-badge&color=red)](https://www.buymeacoffee.com/dzakysantino)
 
 
