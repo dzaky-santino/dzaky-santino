@@ -10,7 +10,7 @@ I am Dzaky Santino and I am an undergraduate student majoring in Information Sys
 * 🖥️  See my portfolio at [My Portfolio](http://dsantino.github.io/portfolio/)
 * ✉️  You can contact me at [dzakysan2002@gmail.com](mailto:dzakysan2002@gmail.com)
 * 🧠  I'm learning Web Development
-* 🤝  I'm open to collaborating on <a href="https://github.com/dzaky-santino" target="blank">Github</a> and <a href="https://discord.gg/2x39Q2vZpb" target="blank">Discord</a>
+* 🤝  I'm open to collaborating on <a href="https://github.com/dzaky-santino" target="blank">Github</a> and <a href="https://discord.gg/2x39Q2vZpb" target="blank">Discord Server</a>
 * ⚡  I'm always love my gf, hehehehe
 
 <a href="https://github.com/dzaky-santino" target="_blank" rel="noreferrer"><img
@@ -35,7 +35,7 @@ src="https://img.shields.io/github/followers/dzaky-santino?logo=github&style=for
 
 ### Socials
 
-<p align="left"><a href="https://www.github.com/dzaky-santino" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://discord.com/users/425646614015901696" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/dzakysantino22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dzakysantino" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dzakysantino" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/dzakysantino22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"><a href="https://www.github.com/dzaky-santino" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://discord.com/users/425646614015901696" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dzakysantino" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/dzakysantino" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
