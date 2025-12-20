@@ -1,17 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dzaky Santino
 =====================================================================================================================================
 
-Beginner Web Developer
+Programmer
 ----------------------
 
-I am Dzaky Santino and I am an undergraduate student majoring in Information Systems at Gunadarma University. I'm a novice web developer. I've always been curious about web developments.
+I am Dzaky Santino and I am a fresh graduate student majoring in Information Systems at Gunadarma University. I'm a programmer. I have always been interested in web development and other application development.
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [My Portfolio](https://dzakysantino.my.id/)
 * ✉️  You can contact me at [dzakysan2002@gmail.com](mailto:dzakysan2002@gmail.com)
-* 🧠  I'm learning Web Development
-* 🤝  I'm open to collaborating on <a href="https://github.com/dzaky-santino" target="blank">Github</a> and <a href="https://discord.gg/2x39Q2vZpb" target="blank">Discord Server</a>
-* ⚡  I'm always love my gf, hehehehe
+* 🤝  I'm open to collaborating on <a href="https://github.com/dzaky-santino" target="blank">Github</a>
 
 <a href="https://github.com/dzaky-santino" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dzaky-santino?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -31,11 +29,6 @@ src="https://img.shields.io/github/followers/dzaky-santino?logo=github&style=for
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"><a href="https://www.github.com/dzaky-santino" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://discord.com/users/425646614015901696" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dzakysantino" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/dzakysantino" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
