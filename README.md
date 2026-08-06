@@ -25,12 +25,3 @@ src="https://img.shields.io/github/followers/dzaky-santino?logo=github&style=for
 
 **GitHub Activity / Commits Graph**  
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dzaky-santino&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true)](https://github.com/dzaky-santino)
-
-<br/><br/>
-
-<b>GitHub Activity / Commits Graph</b>
-<br/>
-<a href="https://github.com/dzaky-santino" target="_blank">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dzaky-santino&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="dzaky-santino's Activity Graph" />
-</a>
-
