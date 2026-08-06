@@ -18,10 +18,10 @@ src="https://img.shields.io/github/followers/dzaky-santino?logo=github&style=for
 ### Badges
 
 **GitHub Streak Stats**  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dzaky-santino&theme=tokyonight)](https://github.com/dzaky-santino)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dzaky-santino&theme=tokyonight&v=1)](https://github.com/dzaky-santino)
 
 **GitHub Profile Trophy**
-[![Trophy](https://github-profile-trophy.vercel.app/?username=dzaky-santino&theme=onedark)](https://github.com/dzaky-santino)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=dzaky-santino&theme=onedark&v=1)](https://github.com/dzaky-santino)
 
 **GitHub Activity / Commits Graph**  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dzaky-santino&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true)](https://github.com/dzaky-santino)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dzaky-santino&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true&v=1)](https://github.com/dzaky-santino)
