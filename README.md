@@ -17,19 +17,14 @@ src="https://img.shields.io/github/followers/dzaky-santino?logo=github&style=for
 
 ### Badges
 
-<b>My GitHub Stats</b>
-<br/>
-<a href="https://github.com/dzaky-santino" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=dzaky-santino&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="dzaky-santino's GitHub stats" />
-</a>
+**My GitHub Stats**  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzaky-santino&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/dzaky-santino)
 
-<br/><br/>
+**Top Languages**  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dzaky-santino&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github-com/dzaky-santino)
 
-<b>Top Languages</b>
-<br/>
-<a href="https://github.com/dzaky-santino" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzaky-santino&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+**GitHub Activity / Commits Graph**  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dzaky-santino&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true)](https://github.com/dzaky-santino)
 
 <br/><br/>
 
