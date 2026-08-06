@@ -18,11 +18,24 @@ src="https://img.shields.io/github/followers/dzaky-santino?logo=github&style=for
 ### Badges
 
 <b>My GitHub Stats</b>
+<br/>
+<a href="https://github.com/dzaky-santino" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=dzaky-santino&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="dzaky-santino's GitHub stats" />
+</a>
 
-<a href="http://www.github.com/dzaky-santino"><img src="https://github-readme-stats.vercel.app/api?username=dzaky-santino&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dzaky-santino's GitHub stats" /></a>
+<br/><br/>
 
-<b>GitHub Commits Graph</b>
+<b>Top Languages</b>
+<br/>
+<a href="https://github.com/dzaky-santino" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzaky-santino&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
 
-<a href="https://github.com/dzaky-santino" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzaky-santino&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br/><br/>
 
+<b>GitHub Activity / Commits Graph</b>
+<br/>
+<a href="https://github.com/dzaky-santino" target="_blank">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dzaky-santino&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="dzaky-santino's Activity Graph" />
+</a>
 
