@@ -18,7 +18,6 @@ src="https://img.shields.io/github/followers/dzaky-santino?logo=github&style=for
 ### Badges
 
 **GitHub Streak Stats**  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dzaky-santino&theme=tokyonight&v=1)](https://github.com/dzaky-santino)
 <img src="https://streak-stats.demolab.com/?user=dzaky-santino&theme=tokyonight" alt="Tes Gambar" />
 
 **GitHub Activity / Commits Graph**  
