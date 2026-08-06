@@ -19,6 +19,7 @@ src="https://img.shields.io/github/followers/dzaky-santino?logo=github&style=for
 
 **GitHub Streak Stats**  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dzaky-santino&theme=tokyonight&v=1)](https://github.com/dzaky-santino)
+<img src="https://streak-stats.demolab.com/?user=dzaky-santino&theme=tokyonight" alt="Tes Gambar" />
 
 **GitHub Activity / Commits Graph**  
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dzaky-santino&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true&v=1)](https://github.com/dzaky-santino)
